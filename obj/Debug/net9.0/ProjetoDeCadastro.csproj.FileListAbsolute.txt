@@ -1,0 +1,14 @@
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\bin\Debug\net9.0\ProjetoDeCadastro.exe
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\bin\Debug\net9.0\ProjetoDeCadastro.deps.json
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\bin\Debug\net9.0\ProjetoDeCadastro.runtimeconfig.json
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\bin\Debug\net9.0\ProjetoDeCadastro.dll
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\bin\Debug\net9.0\ProjetoDeCadastro.pdb
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.AssemblyInfo.cs
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.dll
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\refint\ProjetoDeCadastro.dll
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.pdb
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ProjetoDeCadastro.genruntimeconfig.cache
+C:\Users\julio\OneDrive\Documentos\Nova pasta\Projeto .Net\ProjetoDeCadastro\obj\Debug\net9.0\ref\ProjetoDeCadastro.dll
